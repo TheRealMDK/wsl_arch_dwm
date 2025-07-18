@@ -1,0 +1,9 @@
+matugen-bin
+matugen-bin-debug
+onlyoffice-bin
+resvg
+resvg-debug
+thorium-browser-bin
+wallust
+wallust-debug
+yay-debug
